@@ -14,7 +14,7 @@
   </div>
   <h1>
     welcome!
-    <img src="https://media.giphy.com/media/YRDuN32tiOevbMTNMK/giphy.gif" width="45px"/>
+    <img src="https://media.giphy.com/media/YRDuN32tiOevbMTNMK/giphy.gif" width="50"/>
   </h1>
 </div>
 
